@@ -1,6 +1,6 @@
 # Time-Varying Volatility Models
 
-## Time-Varying, Stochastic Volatility in Continuous Time
+## Stochastic Volatility in Continuous Time
 In the Heston model, for example, the constant parameter $\sigma$ is replaced by an Itô process that obeys:
 
 $$
@@ -9,7 +9,7 @@ $$
 
 where $\lambda$, $c$, and $\bar{\sigma}^2$ are constants.
 
-## Time-Varying, Stochastic Volatility in Discrete Time
+## Stochastic Volatility in Discrete Time
 In the GARCH(1,1) model, for example, the constant parameter $\sigma$ is replaced by a time series process of the form:
 
 $$
